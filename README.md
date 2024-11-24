@@ -13,6 +13,10 @@ Welcome to the **Quiz Test Application**! This is a simple command-line quiz gam
 
 - Python 3.x (No external libraries required)
 
+## Screenshots
+![Screenshot 2024-11-24 195935](https://github.com/user-attachments/assets/66f5ff1a-296f-4719-9f55-5debf3c6049e)
+
+
 ## How to Run the Program
 
 1. **Clone or Download** the source code from the repository.
