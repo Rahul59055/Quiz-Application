@@ -23,3 +23,4 @@ Welcome to the **Quiz Test Application**! This is a simple command-line quiz gam
 2. **Run the Python script** in your terminal or command line:
    ```bash
    python quiz_game.py
+   ```
